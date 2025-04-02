@@ -1,0 +1,167 @@
+{"L":"INFO","T":"2025-03-31T00:38:57.160+0700","C":"initialize/run.go:12","M":"Logger initialized"}
+{"L":"INFO","T":"2025-03-31T00:40:26.604+0700","C":"initialize/run.go:12","M":"Logger initialized"}
+{"level":"INFO","time":"2025-03-31T00:43:22.094+0700","message":"Logger initialized"}
+{"level":"INFO","time":"2025-03-31T00:44:56.782+0700","message":"Logger initialized"}
+{"level":"INFO","time":"2025-04-01T14:54:20.415+0700","message":"Logger initialized"}
+{"level":"INFO","time":"2025-04-01T14:54:20.416+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-01T14:54:20.416+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-01T15:19:04.486+0700","message":"Logger initialized"}
+{"level":"INFO","time":"2025-04-01T15:19:04.487+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-01T15:19:04.487+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"ERROR","time":"2025-04-01T15:19:04.555+0700","message":"Redis initialization Error:","error":"dial tcp 127.0.0.1:6331: connect: connection refused"}
+{"level":"INFO","time":"2025-04-01T15:19:04.555+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-01T15:19:36.075+0700","message":"Logger initialized"}
+{"level":"INFO","time":"2025-04-01T15:19:36.076+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-01T15:19:36.077+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-01T15:19:36.077+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-01T17:09:27.125+0700","message":"Logger initialized"}
+{"level":"INFO","time":"2025-04-01T17:09:27.127+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-01T17:09:27.127+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-01T17:09:27.127+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-01T17:10:24.383+0700","message":"Logger initialized"}
+{"level":"INFO","time":"2025-04-01T17:10:24.385+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-01T17:10:24.385+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-01T17:10:24.385+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-01T17:22:53.075+0700","message":"Logger initialized"}
+{"level":"INFO","time":"2025-04-01T17:22:53.076+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-01T17:22:53.076+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-01T17:22:53.077+0700","message":"Initializing Redis Successfully"}
+{"level":"ERROR","time":"2025-04-01T17:22:55.890+0700","message":"Failed to create user","error":"Error 1062 (23000): Duplicate entry 'a' for key 'users.username'"}
+{"level":"ERROR","time":"2025-04-01T17:23:26.977+0700","message":"Failed to create user","error":"Error 1062 (23000): Duplicate entry '1' for key 'users.username'"}
+{"level":"INFO","time":"2025-04-01T17:29:04.643+0700","message":"Logger initialized"}
+{"level":"INFO","time":"2025-04-01T17:29:04.645+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-01T17:29:04.645+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-01T17:29:04.645+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-01T17:29:42.214+0700","message":"Logger initialized"}
+{"level":"INFO","time":"2025-04-01T17:29:42.215+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-01T17:29:42.215+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-01T17:29:42.216+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-01T17:31:52.090+0700","message":"Logger initialized"}
+{"level":"INFO","time":"2025-04-01T17:31:52.091+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-01T17:31:52.091+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-01T17:31:52.091+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-01T17:40:47.537+0700","message":"Logger initialized"}
+{"level":"INFO","time":"2025-04-01T17:40:47.538+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-01T17:40:47.539+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-01T17:40:47.539+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-01T17:55:52.967+0700","message":"Logger initialized"}
+{"level":"INFO","time":"2025-04-01T17:55:52.968+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-01T17:55:52.968+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-01T17:55:52.969+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-01T17:58:29.580+0700","message":"Logger initialized"}
+{"level":"INFO","time":"2025-04-01T17:58:29.581+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-01T17:58:29.581+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-01T17:58:29.581+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-03T01:31:14.484+0700","message":"Logger initialized"}
+{"level":"INFO","time":"2025-04-03T01:31:14.485+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-03T01:31:14.485+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-03T01:31:14.486+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-03T02:15:03.810+0700","message":"Logger initialized"}
+{"level":"INFO","time":"2025-04-03T02:15:03.811+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-03T02:15:03.811+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-03T02:15:03.812+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-03T02:25:08.869+0700","message":"Logger initialized"}
+{"level":"INFO","time":"2025-04-03T02:25:08.870+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-03T02:25:08.870+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-03T02:25:08.870+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-03T02:27:16.059+0700","message":"Logger initialized"}
+{"level":"INFO","time":"2025-04-03T02:27:16.060+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-03T02:27:16.060+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-03T02:27:16.061+0700","message":"Initializing Redis Successfully"}
+{"level":"ERROR","time":"2025-04-03T02:28:46.080+0700","message":"Failed to create conversation:","error":"Error 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`chatapp`.`conversations`, CONSTRAINT `fk_conversation_user2` FOREIGN KEY (`user2_id`) REFERENCES `users` (`id`) ON DELETE CASCADE)"}
+{"level":"ERROR","time":"2025-04-03T02:28:51.071+0700","message":"Failed to create conversation:","error":"Error 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`chatapp`.`conversations`, CONSTRAINT `fk_conversation_user2` FOREIGN KEY (`user2_id`) REFERENCES `users` (`id`) ON DELETE CASCADE)"}
+{"level":"ERROR","time":"2025-04-03T02:29:48.488+0700","message":"Failed to create conversation:","error":"Error 1062 (23000): Duplicate entry '12-13' for key 'conversations.unique_conversation'"}
+{"level":"INFO","time":"2025-04-03T03:09:51.024+0700","message":"Logger initialized"}
+{"level":"INFO","time":"2025-04-03T03:09:51.025+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-03T03:09:51.025+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-03T03:09:51.025+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-03T03:12:57.439+0700","message":"Logger initialized"}
+{"level":"INFO","time":"2025-04-03T03:12:57.441+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-03T03:12:57.441+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-03T03:12:57.441+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-03T03:17:23.812+0700","message":"Logger initialized"}
+{"level":"INFO","time":"2025-04-03T03:17:23.813+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-03T03:17:23.813+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-03T03:17:23.814+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-03T03:17:27.918+0700","message":"Lỗi khi nhận conversationID hoặc senderID","error":"strconv.Atoi: parsing \"\": invalid syntax"}
+{"level":"INFO","time":"2025-04-03T03:21:05.526+0700","message":"WebSocket kết nối thành công","ConversationID":"1","SenderID":12}
+{"level":"INFO","time":"2025-04-03T03:21:05.526+0700","message":"WebSocket mới tham gia vào conversation","ConversationID":"1"}
+{"level":"INFO","time":"2025-04-03T03:22:05.816+0700","message":"Tin nhắn nhận được","SenderID":12,"Message":"Hello"}
+{"level":"INFO","time":"2025-04-03T03:22:05.828+0700","message":"Tin nhắn nhận từ Redis","ConversationID":"1","Payload":"Hello"}
+{"level":"INFO","time":"2025-04-03T03:22:19.285+0700","message":"WebSocket kết nối thành công","ConversationID":"1","SenderID":12}
+{"level":"INFO","time":"2025-04-03T03:22:19.285+0700","message":"WebSocket mới tham gia vào conversation","ConversationID":"1"}
+{"level":"INFO","time":"2025-04-03T03:22:24.368+0700","message":"Tin nhắn nhận được","SenderID":12,"Message":"Hello"}
+{"level":"INFO","time":"2025-04-03T03:22:24.381+0700","message":"Tin nhắn nhận từ Redis","ConversationID":"1","Payload":"Hello"}
+{"level":"INFO","time":"2025-04-03T03:22:24.381+0700","message":"Tin nhắn nhận từ Redis","ConversationID":"1","Payload":"Hello"}
+{"level":"INFO","time":"2025-04-03T03:22:31.771+0700","message":"Lỗi khi đọc tin nhắn từ WebSocket","error":"websocket: close 1005 (no status)"}
+{"level":"INFO","time":"2025-04-03T03:22:36.078+0700","message":"WebSocket kết nối thành công","ConversationID":"1","SenderID":112}
+{"level":"INFO","time":"2025-04-03T03:22:36.078+0700","message":"WebSocket mới tham gia vào conversation","ConversationID":"1"}
+{"level":"INFO","time":"2025-04-03T03:22:56.850+0700","message":"Tin nhắn nhận được","SenderID":112,"Message":"User 112"}
+{"level":"INFO","time":"2025-04-03T03:22:56.862+0700","message":"Tin nhắn nhận từ Redis","ConversationID":"1","Payload":"User 112"}
+{"level":"INFO","time":"2025-04-03T03:22:56.862+0700","message":"Tin nhắn nhận từ Redis","ConversationID":"1","Payload":"User 112"}
+{"level":"INFO","time":"2025-04-03T03:22:56.862+0700","message":"Tin nhắn nhận từ Redis","ConversationID":"1","Payload":"User 112"}
+{"level":"INFO","time":"2025-04-03T03:25:20.828+0700","message":"Tin nhắn nhận được","SenderID":112,"Message":"User 112"}
+{"level":"INFO","time":"2025-04-03T03:25:20.840+0700","message":"Tin nhắn nhận từ Redis","ConversationID":"1","Payload":"User 112"}
+{"level":"INFO","time":"2025-04-03T03:25:20.840+0700","message":"Tin nhắn nhận từ Redis","ConversationID":"1","Payload":"User 112"}
+{"level":"INFO","time":"2025-04-03T03:25:20.840+0700","message":"Tin nhắn nhận từ Redis","ConversationID":"1","Payload":"User 112"}
+{"level":"INFO","time":"2025-04-03T03:25:25.756+0700","message":"Logger initialized"}
+{"level":"INFO","time":"2025-04-03T03:25:25.757+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-03T03:25:25.757+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-03T03:25:25.758+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-03T03:25:28.165+0700","message":"WebSocket kết nối thành công","ConversationID":"1","SenderID":112}
+{"level":"INFO","time":"2025-04-03T03:25:28.165+0700","message":"WebSocket mới tham gia vào conversation","ConversationID":"1"}
+{"level":"INFO","time":"2025-04-03T03:25:33.228+0700","message":"WebSocket kết nối thành công","ConversationID":"1","SenderID":12}
+{"level":"INFO","time":"2025-04-03T03:25:33.228+0700","message":"WebSocket mới tham gia vào conversation","ConversationID":"1"}
+{"level":"INFO","time":"2025-04-03T03:25:40.812+0700","message":"Tin nhắn nhận được","SenderID":112,"Message":"Usser 112"}
+{"level":"INFO","time":"2025-04-03T03:26:08.315+0700","message":"Tin nhắn nhận được","SenderID":12,"Message":"12"}
+{"level":"INFO","time":"2025-04-03T03:26:08.327+0700","message":"Tin nhắn nhận từ Redis","ConversationID":"1","Payload":"12"}
+{"level":"INFO","time":"2025-04-03T03:26:08.327+0700","message":"Tin nhắn nhận từ Redis","ConversationID":"1","Payload":"12"}
+{"level":"INFO","time":"2025-04-03T03:26:11.050+0700","message":"Tin nhắn nhận được","SenderID":12,"Message":"12"}
+{"level":"INFO","time":"2025-04-03T03:26:11.060+0700","message":"Tin nhắn nhận từ Redis","ConversationID":"1","Payload":"12"}
+{"level":"INFO","time":"2025-04-03T03:26:11.060+0700","message":"Tin nhắn nhận từ Redis","ConversationID":"1","Payload":"12"}
+{"level":"INFO","time":"2025-04-03T03:26:12.404+0700","message":"Tin nhắn nhận được","SenderID":12,"Message":"2"}
+{"level":"INFO","time":"2025-04-03T03:26:12.415+0700","message":"Tin nhắn nhận từ Redis","ConversationID":"1","Payload":"2"}
+{"level":"INFO","time":"2025-04-03T03:26:12.415+0700","message":"Tin nhắn nhận từ Redis","ConversationID":"1","Payload":"2"}
+{"level":"INFO","time":"2025-04-03T03:26:13.149+0700","message":"Tin nhắn nhận được","SenderID":12,"Message":"2"}
+{"level":"INFO","time":"2025-04-03T03:26:13.160+0700","message":"Tin nhắn nhận từ Redis","ConversationID":"1","Payload":"2"}
+{"level":"INFO","time":"2025-04-03T03:26:13.160+0700","message":"Tin nhắn nhận từ Redis","ConversationID":"1","Payload":"2"}
+{"level":"INFO","time":"2025-04-03T03:26:13.666+0700","message":"Tin nhắn nhận được","SenderID":12,"Message":"1"}
+{"level":"INFO","time":"2025-04-03T03:26:13.677+0700","message":"Tin nhắn nhận từ Redis","ConversationID":"1","Payload":"1"}
+{"level":"INFO","time":"2025-04-03T03:26:13.677+0700","message":"Tin nhắn nhận từ Redis","ConversationID":"1","Payload":"1"}
+{"level":"INFO","time":"2025-04-03T03:30:13.986+0700","message":"Logger initialized"}
+{"level":"INFO","time":"2025-04-03T03:30:13.987+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-03T03:30:13.987+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-03T03:30:13.988+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-03T03:30:27.339+0700","message":"WebSocket kết nối thành công","ConversationID":"1","SenderID":12}
+{"level":"INFO","time":"2025-04-03T03:30:27.339+0700","message":"WebSocket mới tham gia vào conversation","ConversationID":"1"}
+{"level":"INFO","time":"2025-04-03T03:30:31.457+0700","message":"Tin nhắn nhận được","SenderID":12,"Message":"He"}
+{"level":"INFO","time":"2025-04-03T03:30:41.877+0700","message":"WebSocket kết nối thành công","ConversationID":"1","SenderID":112}
+{"level":"INFO","time":"2025-04-03T03:30:41.877+0700","message":"WebSocket mới tham gia vào conversation","ConversationID":"1"}
+{"level":"INFO","time":"2025-04-03T03:30:44.721+0700","message":"Tin nhắn nhận được","SenderID":112,"Message":"He"}
+{"level":"INFO","time":"2025-04-03T03:35:46.707+0700","message":"Logger initialized"}
+{"level":"INFO","time":"2025-04-03T03:35:46.708+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-03T03:35:46.708+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-03T03:35:46.709+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-03T03:35:50.231+0700","message":"WebSocket kết nối thành công","ConversationID":"1","SenderID":112}
+{"level":"INFO","time":"2025-04-03T03:35:50.231+0700","message":"WebSocket mới tham gia vào conversation","ConversationID":"1"}
+{"level":"INFO","time":"2025-04-03T03:35:52.053+0700","message":"WebSocket kết nối thành công","ConversationID":"1","SenderID":12}
+{"level":"INFO","time":"2025-04-03T03:35:52.054+0700","message":"WebSocket mới tham gia vào conversation","ConversationID":"1"}
+{"level":"INFO","time":"2025-04-03T03:35:54.947+0700","message":"Tin nhắn nhận được","SenderID":12,"Message":"12"}
+{"level":"INFO","time":"2025-04-03T03:35:54.955+0700","message":"Tin nhắn nhận từ Redis","ConversationID":"1","Payload":"12:12"}
+{"level":"INFO","time":"2025-04-03T03:35:54.955+0700","message":"Tin nhắn nhận từ Redis","ConversationID":"1","Payload":"12:12"}
+{"level":"INFO","time":"2025-04-03T03:37:19.891+0700","message":"Logger initialized"}
+{"level":"INFO","time":"2025-04-03T03:37:19.892+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-03T03:37:19.892+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-03T03:37:19.892+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-03T03:37:22.631+0700","message":"WebSocket kết nối thành công","ConversationID":"1","SenderID":112}
+{"level":"INFO","time":"2025-04-03T03:37:22.631+0700","message":"WebSocket mới tham gia vào conversation","ConversationID":"1"}
+{"level":"INFO","time":"2025-04-03T03:37:25.182+0700","message":"WebSocket kết nối thành công","ConversationID":"1","SenderID":112}
+{"level":"INFO","time":"2025-04-03T03:37:25.182+0700","message":"WebSocket mới tham gia vào conversation","ConversationID":"1"}
+{"level":"INFO","time":"2025-04-03T03:37:31.226+0700","message":"Tin nhắn nhận được","SenderID":112,"Message":"ha"}
+{"level":"INFO","time":"2025-04-03T03:37:40.918+0700","message":"Lỗi khi đọc tin nhắn từ WebSocket","error":"websocket: close 1005 (no status)"}
+{"level":"INFO","time":"2025-04-03T03:37:44.626+0700","message":"WebSocket kết nối thành công","ConversationID":"1","SenderID":12}
+{"level":"INFO","time":"2025-04-03T03:37:44.626+0700","message":"WebSocket mới tham gia vào conversation","ConversationID":"1"}
+{"level":"INFO","time":"2025-04-03T03:37:52.531+0700","message":"Tin nhắn nhận được","SenderID":12,"Message":"Ha"}
+{"level":"INFO","time":"2025-04-03T03:37:52.544+0700","message":"Tin nhắn nhận từ Redis","ConversationID":"1","Payload":"12:Ha"}
+{"level":"INFO","time":"2025-04-03T03:37:52.544+0700","message":"Tin nhắn nhận từ Redis","ConversationID":"1","Payload":"12:Ha"}
+{"level":"INFO","time":"2025-04-03T03:37:52.544+0700","message":"Tin nhắn nhận từ Redis","ConversationID":"1","Payload":"12:Ha"}

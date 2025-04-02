@@ -42,10 +42,6 @@ func (e *AppError) Error() string {
 	return e.RootError.Error()
 }
 
-func ErrorDatabase(err error) *AppError {
-	return NewAppError(err, "Database Error", err.Error(), "database")
-}
-
 func ErrorNotFound(err error) *AppError {
 	return NewAppErrorWithCode(http.StatusNotFound, err, "Not Found", err.Error(), "not_found")
 }

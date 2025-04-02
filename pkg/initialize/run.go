@@ -1,11 +1,16 @@
 package initialize
 
+import "main.go/global"
+
 func Initialize() {
 	// Initialize the configuration
 	LoadConfig()
 
 	// Initialize the logger
 	InitializeLogger()
+
+	global.Log.Info("Logger initialized")
+
 	// Initialize the MySQL database connection
 	InitializeMySQL()
 

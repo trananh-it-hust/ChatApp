@@ -1,6 +1,6 @@
 package main
 
-import "main.go/internal/initialize"
+import "main.go/pkg/initialize"
 
 func main() {
 	initialize.Initialize()

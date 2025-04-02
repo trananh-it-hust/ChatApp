@@ -1,0 +1,27 @@
+server:
+  port: 8080
+  mode: development
+mysql:
+  host: localhost
+  port: 3306
+  user: root
+  password: 1111
+  database: chatapp
+  maxIdConns: 10
+  maxOpenConns: 100
+  connectMaxLifetime: 3600
+log:
+  log_level: debug
+  log_file: ./log/app.log
+  log_max_size: 1024
+  log_max_backups: 3
+  log_max_age: 30
+  log_compress: true
+redis:
+  host: 127.0.0.1
+  port: 6379
+  password:
+  database: 0
+jwt:
+  secret: 123456
+  expire: 60
