@@ -165,3 +165,7 @@
 {"level":"INFO","time":"2025-04-03T03:37:52.544+0700","message":"Tin nhắn nhận từ Redis","ConversationID":"1","Payload":"12:Ha"}
 {"level":"INFO","time":"2025-04-03T03:37:52.544+0700","message":"Tin nhắn nhận từ Redis","ConversationID":"1","Payload":"12:Ha"}
 {"level":"INFO","time":"2025-04-03T03:37:52.544+0700","message":"Tin nhắn nhận từ Redis","ConversationID":"1","Payload":"12:Ha"}
+{"level":"INFO","time":"2025-04-03T10:22:29.263+0700","message":"Logger initialized"}
+{"level":"INFO","time":"2025-04-03T10:22:29.267+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-03T10:22:29.268+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-03T10:22:29.269+0700","message":"Initializing Redis Successfully"}

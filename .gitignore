@@ -1,0 +1,8 @@
+# Ignore log files
+log
+
+# Ignore production configuration
+config/production.yaml
+
+# Ignore VS Code settings
+.vscode
