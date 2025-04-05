@@ -3,9 +3,9 @@ package service
 import (
 	"errors"
 
-	"main.go/internal/user/model"
-	"main.go/internal/user/repository"
-	"main.go/pkg/util"
+	"github.com/trananh-it-hust/ChatApp/internal/user/model"
+	"github.com/trananh-it-hust/ChatApp/internal/user/repository"
+	"github.com/trananh-it-hust/ChatApp/pkg/util"
 )
 
 type UserService interface {

@@ -3,8 +3,8 @@ package repository
 import (
 	"errors"
 
-	"main.go/global"
-	"main.go/internal/user/model"
+	"github.com/trananh-it-hust/ChatApp/global"
+	"github.com/trananh-it-hust/ChatApp/internal/user/model"
 )
 
 type UserRepository interface {

@@ -3,7 +3,7 @@ package response
 import (
 	"net/http"
 
-	"main.go/pkg/util"
+	"github.com/trananh-it-hust/ChatApp/pkg/util"
 )
 
 type Response struct {

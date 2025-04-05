@@ -169,3 +169,82 @@
 {"level":"INFO","time":"2025-04-03T10:22:29.267+0700","message":"Connected to MySQL","host":"localhost","port":3306}
 {"level":"INFO","time":"2025-04-03T10:22:29.268+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
 {"level":"INFO","time":"2025-04-03T10:22:29.269+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-05T15:16:00.633+0700","message":"2025-04-05 15:16:00: Run server on port 8080"}
+{"level":"ERROR","time":"2025-04-05T15:16:00.634+0700","message":"Failed to connect to MySQL","error":"dial tcp 127.0.0.1:3306: connect: connection refused"}
+{"level":"ERROR","time":"2025-04-05T15:16:00.700+0700","message":"Redis initialization Error:","error":"dial tcp 127.0.0.1:6379: connect: connection refused"}
+{"level":"INFO","time":"2025-04-05T15:16:00.700+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-05T15:16:45.734+0700","message":"2025-04-05 15:16:45: Run server on port 8080"}
+{"level":"INFO","time":"2025-04-05T15:16:45.741+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-05T15:16:45.741+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-05T15:16:45.742+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-05T16:08:17.111+0700","message":"2025-04-05 16:08:17: Run server on port 8080"}
+{"level":"INFO","time":"2025-04-05T16:08:17.113+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-05T16:08:17.113+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-05T16:08:17.113+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-05T16:08:21.228+0700","message":"Lỗi khi nhận conversationID hoặc senderID","error":"strconv.Atoi: parsing \"\": invalid syntax"}
+{"level":"INFO","time":"2025-04-05T16:08:36.882+0700","message":"Lỗi khi nhận conversationID hoặc senderID","error":"strconv.Atoi: parsing \"\": invalid syntax"}
+{"level":"INFO","time":"2025-04-05T16:10:22.790+0700","message":"Lỗi khi nhận conversationID hoặc senderID"}
+{"level":"INFO","time":"2025-04-05T16:10:32.308+0700","message":"Lỗi khi nhận conversationID hoặc senderID"}
+{"level":"INFO","time":"2025-04-05T16:11:33.172+0700","message":"2025-04-05 16:11:33: Run server on port 8080"}
+{"level":"INFO","time":"2025-04-05T16:11:33.173+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-05T16:11:33.173+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-05T16:11:33.173+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-05T16:11:35.769+0700","message":"WebSocket kết nối thành công","ConversationID":"1","SenderID":13}
+{"level":"INFO","time":"2025-04-05T16:11:35.769+0700","message":"WebSocket mới tham gia vào conversation","ConversationID":"1"}
+{"level":"INFO","time":"2025-04-05T16:11:38.595+0700","message":"WebSocket kết nối thành công","ConversationID":"1","SenderID":12}
+{"level":"INFO","time":"2025-04-05T16:11:38.595+0700","message":"WebSocket mới tham gia vào conversation","ConversationID":"1"}
+{"level":"INFO","time":"2025-04-05T16:11:49.875+0700","message":"Tin nhắn nhận được","SenderID":12,"Message":"Hello"}
+{"level":"INFO","time":"2025-04-05T16:11:49.882+0700","message":"Tin nhắn nhận từ Redis","ConversationID":"1","Payload":"12:Hello"}
+{"level":"INFO","time":"2025-04-05T16:11:49.882+0700","message":"Tin nhắn nhận từ Redis","ConversationID":"1","Payload":"12:Hello"}
+{"level":"INFO","time":"2025-04-05T16:47:48.687+0700","message":"2025-04-05 16:47:48: Run server on port 8080"}
+{"level":"INFO","time":"2025-04-05T16:47:48.688+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-05T16:47:48.688+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-05T16:47:48.689+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-05T16:57:48.360+0700","message":"2025-04-05 16:57:48: Run server on port 8080"}
+{"level":"INFO","time":"2025-04-05T16:57:48.361+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-05T16:57:48.361+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-05T16:57:48.361+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-05T17:00:56.673+0700","message":"2025-04-05 17:00:56: Run server on port 8080"}
+{"level":"INFO","time":"2025-04-05T17:00:56.674+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-05T17:00:56.674+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-05T17:00:56.675+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-05T17:04:31.844+0700","message":"2025-04-05 17:04:31: Run server on port 8080"}
+{"level":"INFO","time":"2025-04-05T17:04:31.845+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-05T17:04:31.845+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-05T17:04:31.845+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-05T17:05:56.539+0700","message":"2025-04-05 17:05:56: Run server on port 8080"}
+{"level":"INFO","time":"2025-04-05T17:05:56.540+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-05T17:05:56.540+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-05T17:05:56.541+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-05T17:13:08.488+0700","message":"2025-04-05 17:13:08: Run server on port 8080"}
+{"level":"INFO","time":"2025-04-05T17:13:08.489+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-05T17:13:08.489+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-05T17:13:08.490+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-05T17:14:32.649+0700","message":"2025-04-05 17:14:32: Run server on port 8080"}
+{"level":"INFO","time":"2025-04-05T17:14:32.650+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-05T17:14:32.650+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-05T17:14:32.650+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-05T17:21:45.598+0700","message":"2025-04-05 17:21:45: Run server on port 8080"}
+{"level":"INFO","time":"2025-04-05T17:21:45.600+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-05T17:21:45.600+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-05T17:21:45.600+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-05T17:27:23.451+0700","message":"2025-04-05 17:27:23: Run server on port 8080"}
+{"level":"INFO","time":"2025-04-05T17:27:23.452+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-05T17:27:23.452+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-05T17:27:23.452+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-05T17:31:37.943+0700","message":"2025-04-05 17:31:37: Run server on port 8080"}
+{"level":"INFO","time":"2025-04-05T17:31:37.944+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-05T17:31:37.944+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-05T17:31:37.945+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-05T17:32:38.151+0700","message":"2025-04-05 17:32:38: Run server on port 8080"}
+{"level":"INFO","time":"2025-04-05T17:32:38.152+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-05T17:32:38.152+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-05T17:32:38.153+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-05T17:33:28.224+0700","message":"2025-04-05 17:33:28: Run server on port 8080"}
+{"level":"INFO","time":"2025-04-05T17:33:28.226+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-05T17:33:28.226+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-05T17:33:28.226+0700","message":"Initializing Redis Successfully"}
+{"level":"INFO","time":"2025-04-05T17:36:07.071+0700","message":"2025-04-05 17:36:07: Run server on port 8080"}
+{"level":"INFO","time":"2025-04-05T17:36:07.073+0700","message":"Connected to MySQL","host":"localhost","port":3306}
+{"level":"INFO","time":"2025-04-05T17:36:07.073+0700","message":"MySQL connection pool set","maxIdle":10,"maxOpen":100,"maxLife":3600}
+{"level":"INFO","time":"2025-04-05T17:36:07.073+0700","message":"Initializing Redis Successfully"}

@@ -4,10 +4,10 @@ import (
 	"strconv"
 	"time"
 
+	"github.com/trananh-it-hust/ChatApp/global"
 	"go.uber.org/zap"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
-	"main.go/global"
 )
 
 func InitializeMySQL() {

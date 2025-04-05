@@ -2,9 +2,9 @@ package global
 
 import (
 	"github.com/redis/go-redis/v9"
+	"github.com/trananh-it-hust/ChatApp/pkg/logger"
+	"github.com/trananh-it-hust/ChatApp/pkg/setting"
 	"gorm.io/gorm"
-	"main.go/pkg/logger"
-	"main.go/pkg/setting"
 )
 
 var (

@@ -4,3 +4,5 @@ APP_NAME := server
 
 run:
 	go run cmd/server/main.go
+swag:
+	swag init -g ./cmd/server/main.go -o ./cmd/swag/docs

@@ -1,6 +1,6 @@
 package service
 
-import "main.go/internal/conversation/repository"
+import "github.com/trananh-it-hust/ChatApp/internal/conversation/repository"
 
 type ConversationService interface {
 	CreateConversation(user1ID, user2ID int) (int, error)

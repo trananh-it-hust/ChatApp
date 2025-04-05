@@ -5,8 +5,8 @@ import (
 	"fmt"
 
 	"github.com/redis/go-redis/v9"
+	"github.com/trananh-it-hust/ChatApp/global"
 	"go.uber.org/zap"
-	"main.go/global"
 )
 
 var ctx = context.Background()

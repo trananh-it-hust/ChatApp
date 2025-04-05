@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/dgrijalva/jwt-go"
-	"main.go/global"
+	"github.com/trananh-it-hust/ChatApp/global"
 )
 
 type Claims struct {

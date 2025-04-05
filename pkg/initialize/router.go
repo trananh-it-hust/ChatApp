@@ -4,9 +4,9 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	converC "main.go/internal/conversation/controller"
-	userC "main.go/internal/user/controller"
-	"main.go/pkg/util"
+	converC "github.com/trananh-it-hust/ChatApp/internal/conversation/controller"
+	userC "github.com/trananh-it-hust/ChatApp/internal/user/controller"
+	"github.com/trananh-it-hust/ChatApp/pkg/util"
 )
 
 func InitializeRouter() *gin.Engine {

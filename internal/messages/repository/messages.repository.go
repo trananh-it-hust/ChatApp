@@ -3,8 +3,8 @@ package repository
 import (
 	"strconv"
 
-	"main.go/global"
-	"main.go/internal/messages/model"
+	"github.com/trananh-it-hust/ChatApp/global"
+	"github.com/trananh-it-hust/ChatApp/internal/messages/model"
 )
 
 type MessageRepository interface {

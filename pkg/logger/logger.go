@@ -4,9 +4,9 @@ import (
 	"os"
 
 	"github.com/natefinch/lumberjack"
+	"github.com/trananh-it-hust/ChatApp/pkg/setting"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
-	"main.go/pkg/setting"
 )
 
 type Logger struct {

@@ -5,10 +5,10 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"main.go/internal/user/model"
-	"main.go/internal/user/service"
-	"main.go/pkg/response"
-	"main.go/pkg/util"
+	"github.com/trananh-it-hust/ChatApp/internal/user/model"
+	"github.com/trananh-it-hust/ChatApp/internal/user/service"
+	"github.com/trananh-it-hust/ChatApp/pkg/response"
+	"github.com/trananh-it-hust/ChatApp/pkg/util"
 )
 
 type UserController struct {
@@ -21,6 +21,15 @@ func NewUserController() *UserController {
 	}
 }
 
+// @Summary Create a new user
+// @Description Create a new user
+// @Tags User
+// @Accept json
+// @Produce json
+// @Param user body model.UserRegister true "User register"
+// @Success 200 {object} response.Response{data=null}
+// @Failure 400 {object} response.Response
+// @Router /auth/register [post]
 func (uc *UserController) CreateUser(ctx *gin.Context) {
 	user := model.UserRegister{}
 	if err := ctx.ShouldBindJSON(&user); err != nil {

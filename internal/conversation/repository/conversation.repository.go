@@ -1,9 +1,9 @@
 package repository
 
 import (
+	"github.com/trananh-it-hust/ChatApp/global"
+	"github.com/trananh-it-hust/ChatApp/internal/conversation/model"
 	"go.uber.org/zap"
-	"main.go/global"
-	"main.go/internal/conversation/model"
 )
 
 type ConversationRepository interface {

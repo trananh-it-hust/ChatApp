@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"main.go/global"
-	"main.go/internal/messages/repository"
+	"github.com/trananh-it-hust/ChatApp/global"
+	"github.com/trananh-it-hust/ChatApp/internal/messages/repository"
 )
 
 func SaveAndPublishMessage(conversationID string, senderID int, message string) error {

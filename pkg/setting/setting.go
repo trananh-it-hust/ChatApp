@@ -1,6 +1,7 @@
 package setting
 
 type Config struct {
+	Server ServerSetting `mapstructure:"server"`
 	Mysql  MySQLSetting  `mapstructure:"mysql"`
 	Logger LoggerSetting `mapstructure:"log"`
 	Redis  RedisSetting  `mapstructure:"redis"`
@@ -37,4 +38,9 @@ type LoggerSetting struct {
 type JwtSetting struct {
 	Secret string `mapstructure:"secret"`
 	Expire int    `mapstructure:"expire"`
+}
+
+type ServerSetting struct {
+	Port string `mapstructure:"port"`
+	Mode string `mapstructure:"mode"`
 }

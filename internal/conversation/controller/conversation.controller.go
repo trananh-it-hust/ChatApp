@@ -5,9 +5,9 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"main.go/internal/conversation/model"
-	"main.go/internal/conversation/service"
-	"main.go/pkg/response"
+	"github.com/trananh-it-hust/ChatApp/internal/conversation/model"
+	"github.com/trananh-it-hust/ChatApp/internal/conversation/service"
+	"github.com/trananh-it-hust/ChatApp/pkg/response"
 )
 
 type ConversationController struct {

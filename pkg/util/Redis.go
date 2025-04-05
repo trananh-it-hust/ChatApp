@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"main.go/global"
+	"github.com/trananh-it-hust/ChatApp/global"
 )
 
 func SetValue(key string, value interface{}) error {

@@ -1,8 +1,8 @@
 package initialize
 
 import (
-	"main.go/global"
-	"main.go/pkg/logger"
+	"github.com/trananh-it-hust/ChatApp/global"
+	"github.com/trananh-it-hust/ChatApp/pkg/logger"
 )
 
 func InitializeLogger() {

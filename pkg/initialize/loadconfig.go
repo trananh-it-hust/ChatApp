@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/spf13/viper"
-	"main.go/global"
+	"github.com/trananh-it-hust/ChatApp/global"
 )
 
 func LoadConfig() {
